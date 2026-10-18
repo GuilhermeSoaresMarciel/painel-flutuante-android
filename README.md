@@ -64,4 +64,4 @@ Projeto com fins educacionais, para estudo de JNI, serviços e overlays no Andro
 
 ## Autor
 
-[GGDITOFC no YouTube](https://www.youtube.com/@GGDITOFC)
+# Guilherme Soares Marciel
